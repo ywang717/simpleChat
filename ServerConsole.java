@@ -4,10 +4,8 @@
 
 import java.io.*;
 import java.util.Scanner;
-
 import client.*;
 import common.*;
-
 /**
  * This class constructs the UI for a chat client.  It implements the
  * chat interface in order to activate the display() method.
